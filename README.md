@@ -5,14 +5,14 @@ World flag watch faces for Apple Watch, using Stripes.
 
 **Choose a continent to start:**
 
-- [Asia](
+- [Africa](https://github.com/simple-alcohol/International/tree/main/Africa)
 
-- Africa
+- [Asia](https://github.com/simple-alcohol/International/tree/main/Asia)
 
-- Europe
+- [Europe](https://github.com/simple-alcohol/International/tree/main/Europe)
 
-- Oceania
+- [North and Central America](https://github.com/simple-alcohol/International/tree/main/North%20and%20Central%20America)
 
-- North and Central America
+- [Oceania](https://github.com/simple-alcohol/International/tree/main/Oceania)
 
-- South America
+- [South America](https://github.com/simple-alcohol/International/tree/main/South%20America)
