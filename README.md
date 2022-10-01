@@ -5,7 +5,7 @@ World flag watch faces for Apple Watch, using Stripes.
 
 **Choose a continent to start:**
 
-- Asia
+- [Asia](
 
 - Africa
 
