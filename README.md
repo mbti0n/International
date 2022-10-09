@@ -17,3 +17,56 @@ World flag watch faces for Apple Watch, using Stripes.
 - [South America](https://github.com/simple-alcohol/International/tree/main/South%20America)
 
 **Support me via [PayPal](https://www.paypal.com/paypalme/mbtion123) too!**
+
+## Asia
+
+|    Country    | Download link |
+| ------------- | ------------- |
+| Afghanistan  | Content Cell  |
+| Content Cell  | Content Cell  |
+|Afghanistan|
+|Armenia|
+|Azerbaijan|
+|Bahrain|
+|Bangladesh|
+Bhutan
+Brunei
+Cambodia
+China
+India
+Indonesia
+Iran
+Iraq
+Israel
+Japan
+Jordan
+Kazakhstan
+Kuwait
+Kyrgyzstan
+Laos
+Lebanon
+Malaysia
+Maldives
+Mongolia
+Myanmar
+Nepal
+North Korea
+Oman
+Pakistan
+Palestine
+Philippines
+Qatar
+Saudi Arabia
+Singapore
+South Korea
+Sri Lanka
+Syria
+Taiwan
+Tajikistan
+Thailand
+Timor-Leste
+Turkmenistan
+United Arab Emirates
+Uzbekistan
+Vietnam
+Yemen
