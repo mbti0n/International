@@ -192,7 +192,29 @@ Vatican City|[Download](https://github.com/mbti0n/International/blob/main/Europe
 
 |    Country    | Download link |
 | ------------- | ------------- |
-Argentina|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Argentina.watchface?raw=true)|
+Antigua and Barbuda|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Antigua%20and%20Barbuda.watchface?raw=true)|
+Bahamas|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Bahamas.watchface?raw=true)|
+Barbados|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Barbados.watchface?raw=true)|
+Belize|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Belize.watchface?raw=true)|
+Canada|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Canada.watchface?raw=true)|
+Costa Rica|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Costa%20Rica.watchface?raw=true)|
+Cuba|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Cuba.watchface?raw=true)|
+Dominica|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Dominica.watchface?raw=true)|
+Dominican Republic|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Dominican%20Republic.watchface?raw=true)|
+El Salvador|[Download](https://github.com/mbti0n/International/blob/main/South%20America/El%20Salvador.watchface?raw=true)|
+Grenada|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Grenada.watchface?raw=true)|
+Guatemala|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Guatemala.watchface?raw=true)|
+Haiti|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Haiti.watchface?raw=true)|
+Honduras|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Honduras.watchface?raw=true)|
+Jamaica|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Jamaica.watchface?raw=true)|
+Mexico|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Mexico.watchface?raw=true)|
+Nicaragua|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Nicaragua.watchface?raw=true)|
+Panama|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Panama.watchface?raw=true)|
+Saint Kitts and Nevis|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Saint%20Kitts%20and%20Nevis.watchface?raw=true)|
+Saint Lucia|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Saint%20Lucia.watchface?raw=true)|
+Saint Vincent and the Grenadines|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Saint%20Vincent%20and%20the%20Grenadines.watchface?raw=true)|
+Trinidad and Tobago|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Trinidad%20and%20Tobago.watchface?raw=true)|
+United States of America|[Download](https://github.com/mbti0n/International/blob/main/South%20America/United%20States%20of%20America.watchface?raw=true)|
 
 ## Oceania
 
