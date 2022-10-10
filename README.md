@@ -98,7 +98,7 @@ Eritrea|[Download](https://github.com/mbti0n/International/blob/main/Africa/Erit
 Eswatini|[Download](https://github.com/mbti0n/International/blob/main/Africa/Eswatini.watchface?raw=true)|
 Ethiopia|[Download](https://github.com/mbti0n/International/blob/main/Africa/Ethiopia.watchface?raw=true)|
 Gabon|[Download](https://github.com/mbti0n/International/blob/main/Africa/Gabon.watchface?raw=true)|
-Gambia|[Download](https://github.com/mbti0n/International/blob/main/Africa/Gambia.watchface?raw=true)|
+The Gambia|[Download](https://github.com/mbti0n/International/blob/main/Africa/The%20Gambia.watchface?raw=true)|
 Ghana|[Download](https://github.com/mbti0n/International/blob/main/Africa/Ghana.watchface?raw=true)|
 Guinea|[Download](https://github.com/mbti0n/International/blob/main/Africa/Guinea.watchface?raw=true)|
 Guinea-Bissau|[Download](https://github.com/mbti0n/International/blob/main/Africa/Guinea-Bissau.watchface?raw=true)|
@@ -193,7 +193,7 @@ Vatican City|[Download](https://github.com/mbti0n/International/blob/main/Europe
 |    Country    | Download link |
 | ------------- | ------------- |
 Antigua and Barbuda|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Antigua%20and%20Barbuda.watchface?raw=true)|
-Bahamas|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Bahamas.watchface?raw=true)|
+The Bahamas|[Download](https://github.com/mbti0n/International/blob/main/South%20America/The%20Bahamas.watchface?raw=true)|
 Barbados|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Barbados.watchface?raw=true)|
 Belize|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Belize.watchface?raw=true)|
 Canada|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Canada.watchface?raw=true)|
