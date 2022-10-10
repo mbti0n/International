@@ -2,21 +2,24 @@
 # International
 World flag watch faces for Apple Watch, using Stripes.
 
-**Choose a continent to start:**
-
-- [Africa](https://github.com/simple-alcohol/International/tree/main/Africa)
-
-- [Asia](https://github.com/simple-alcohol/International/tree/main/Asia)
-
-- [Europe](https://github.com/simple-alcohol/International/tree/main/Europe)
-
-- [North and Central America](https://github.com/simple-alcohol/International/tree/main/North%20and%20Central%20America)
-
-- [Oceania](https://github.com/simple-alcohol/International/tree/main/Oceania)
-
-- [South America](https://github.com/simple-alcohol/International/tree/main/South%20America)
-
 **Support me via [PayPal](https://www.paypal.com/paypalme/mbtion123) too!**
+
+## Quick access to your continent:
+<!--ts-->
+   * [Asia](#asia)
+   
+   * [Africa](#africa)
+   
+   * [Europe](#europe)
+   
+   * [Oceania](#oceania)
+   
+   * [North and Central America](#north-and-central-america)
+   
+   * [South America](#south-america)
+<!--te-->
+
+
 
 ## Asia
 
@@ -69,10 +72,25 @@ Uzbekistan|[Download](https://github.com/mbti0n/International/blob/main/Asia/Uzb
 Vietnam|[Download](https://github.com/mbti0n/International/blob/main/Asia/Vietnam.watchface?raw=true)|
 Yemen|[Download](https://github.com/mbti0n/International/blob/main/Asia/Yemen.watchface?raw=true)|
 
-<details open>
 
-  **<summary>click to collapse</summary>**
+## Oceania
 
-  this one starts expanded because of the "open"
+
+|    Country    | Download link |
+| ------------- | ------------- |
+Australia|[Download](https://github.com/mbti0n/International/blob/main/Asia/Australia.watchface?raw=true)|
+Fiji|[Download](https://github.com/mbti0n/International/blob/main/Asia/Fiji.watchface?raw=true)|
+Kiribati|[Download](https://github.com/mbti0n/International/blob/main/Asia/Kiribati.watchface?raw=true)|
+Marshall Islands|[Download](https://github.com/mbti0n/International/blob/main/Asia/Marshall%20Islands.watchface?raw=true)|
+Micronesia|[Download](https://github.com/mbti0n/International/blob/main/Asia/Micronesia.watchface?raw=true)|
+Nauru|[Download](https://github.com/mbti0n/International/blob/main/Asia/Nauru.watchface?raw=true)|
+New Zealand|[Download](https://github.com/mbti0n/International/blob/main/Asia/New%20Zealand.watchface?raw=true)|
+Palau|[Download](https://github.com/mbti0n/International/blob/main/Asia/Palau.watchface?raw=true)|
+Papua New Guinea|[Download](https://github.com/mbti0n/International/blob/main/Asia/Papua%20New%20Guinea.watchface?raw=true)|
+Samoa|[Download](https://github.com/mbti0n/International/blob/main/Asia/Samoa.watchface?raw=true)|
+Solomon Islands|[Download](https://github.com/mbti0n/International/blob/main/Asia/Solomon%20Islands.watchface?raw=true)|
+Tonga|[Download](https://github.com/mbti0n/International/blob/main/Asia/Tonga.watchface?raw=true)|
+Tuvalu|[Download](https://github.com/mbti0n/International/blob/main/Asia/Tuvalu.watchface?raw=true)|
+Vanuatu|[Download](https://github.com/mbti0n/International/blob/main/Asia/Vanuatu.watchface?raw=true)|
 
 </details>
