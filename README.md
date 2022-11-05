@@ -17,6 +17,8 @@ World flag watch faces for Apple Watch, using Stripes.
    * [Oceania](#oceania)
    
    * [South America](#south-america)
+   
+   * [Territories](#territories)
 <!--te-->
 
 
@@ -253,3 +255,34 @@ Peru|[Download](https://github.com/mbti0n/International/blob/main/South%20Americ
 Suriname|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Suriname.watchface?raw=true)|
 Uruguay|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Uruguay.watchface?raw=true)|
 Venezuela|[Download](https://github.com/mbti0n/International/blob/main/South%20America/Venezuela.watchface?raw=true)|
+
+
+## Territories
+|    Country    | Download link |
+| ------------- | ------------- |
+American Samoa|[Download](https://github.com/mbti0n/International/blob/main/Territories/American%20Samoa.watchface?raw=true)|
+Anguilla|[Download](https://github.com/mbti0n/International/blob/main/Territories/Anguilla.watchface?raw=true)|
+Bermuda|[Download](https://github.com/mbti0n/International/blob/main/Territories/Bermuda.watchface?raw=true)|
+British Virgin Islands|[Download](https://github.com/mbti0n/International/blob/main/Territories/British%20Virgin%20Islands.watchface?raw=true)|
+Cayman Islands|[Download](https://github.com/mbti0n/International/blob/main/Territories/Cayman%20Islands.watchface?raw=true)|
+Channel Islands|[Download](https://github.com/mbti0n/International/blob/main/Territories/Channel%20Islands.watchface?raw=true)|
+Curaçao|[Download](https://github.com/mbti0n/International/blob/main/Territories/Curaçao.watchface?raw=true)|
+Falkland Islands|[Download](https://github.com/mbti0n/International/blob/main/Territories/Falkland%20Islands.watchface?raw=true)|
+Faroe Islands|[Download](https://github.com/mbti0n/International/blob/main/Territories/Faroe%20Islands.watchface?raw=true)|
+French Polynesia|[Download](https://github.com/mbti0n/International/blob/main/Territories/French%20Polynesia.watchface?raw=true)|
+Gibraltar|[Download](https://github.com/mbti0n/International/blob/main/Territories/Gibraltar.watchface?raw=true)|
+Greenland|[Download](https://github.com/mbti0n/International/blob/main/Territories/Greenland.watchface?raw=true)|
+Guam|[Download](https://github.com/mbti0n/International/blob/main/Territories/Guam.watchface?raw=true)|
+Hong Kong|[Download](https://github.com/mbti0n/International/blob/main/Territories/Hong%20Kong.watchface?raw=true)|
+Macau|[Download](https://github.com/mbti0n/International/blob/main/Territories/Macau.watchface?raw=true)|
+Montserrat|[Download](https://github.com/mbti0n/International/blob/main/Territories/Montserrat.watchface?raw=true)|
+New Caledonia|[Download](https://github.com/mbti0n/International/blob/main/Territories/New%20Caledonia.watchface?raw=true)|
+Northern Mariana Islands|[Download](https://github.com/mbti0n/International/blob/main/Territories/Northern%20Mariana%20Islands.watchface?raw=true)|
+Puerto Rico|[Download](https://github.com/mbti0n/International/blob/main/Territories/Puerto%20Rico.watchface?raw=true)|
+Saint Helena|[Download](https://github.com/mbti0n/International/blob/main/Territories/Saint%20Helena.watchface?raw=true)|
+Saint Pierre Miquelon|[Download](https://github.com/mbti0n/International/blob/main/Territories/Saint%20Pierre%20Miquelon.watchface?raw=true)|
+Sint Maarten|[Download](https://github.com/mbti0n/International/blob/main/Territories/Sint%20Maarten.watchface?raw=true)|
+Tokelau|[Download](https://github.com/mbti0n/International/blob/main/Territories/Tokelau.watchface?raw=true)|
+Turks and Caicos|[Download](https://github.com/mbti0n/International/blob/main/Territories/Turks%20and%20Caicos.watchface?raw=true)|
+US Virgin Islands|[Download](https://github.com/mbti0n/International/blob/main/Territories/US%20Virgin%20Islands.watchface?raw=true)|
+Wallis and Futuna|[Download](https://github.com/mbti0n/International/blob/main/Territories/Wallis%20and%20Futuna.watchface?raw=true)|
