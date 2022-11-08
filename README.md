@@ -3,7 +3,8 @@
 
 World flag watch faces for Apple Watch, using Stripes.
 
-**Support me via [PayPal](https://www.paypal.com/paypalme/mbtion123) too!**
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=K3FA6CH6NML3G&no_recurring=1&currency_code=USD)
+
 
 ## Quick access to your continent:
 <!--ts-->
